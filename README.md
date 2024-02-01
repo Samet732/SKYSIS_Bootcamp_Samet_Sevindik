@@ -1,4 +1,4 @@
-# SKYS-S_Bootcamp_Samet_Sevindik
+# SKYSIS_Bootcamp_Samet_Sevindik
 Keypad ile çalışan buzzer müzik Çalar
 
 
